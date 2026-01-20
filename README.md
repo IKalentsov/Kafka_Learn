@@ -25,4 +25,3 @@
 13) После запуска должны увидеть в консоли
 14) Увидим сообщения, у меня 1, т.к. остальные я уже прочитал
 <img width="947" height="152" alt="image" src="https://github.com/user-attachments/assets/672b46ee-f2aa-4401-a770-2ffe4de1a5b0" />
-
