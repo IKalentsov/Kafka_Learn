@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Messaging.Kafka/Messaging.Kafka.csproj" Id="6d8e0fb7-56b1-4cb6-996c-5211e5a9f9ae" />
+  <Project Path="KafkalearnConsumer.csproj" />
+</Solution>
